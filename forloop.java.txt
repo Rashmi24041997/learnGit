@@ -1,2 +1,7 @@
-class ForLoop{
+class ForLoop
+{ 
+	public static void main(String arg[])
+	{
+		System.out.print("This is a class for teaching forloops");
+	}
 }
